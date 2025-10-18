@@ -17,7 +17,7 @@ body
 }
 .navbar-nav{
     margin-left: auto;
-    background-image: linear-gradient(to right, #229799,#eae8dc);
+    background-image: linear-gradient(to right, #686D76,#F9E2AF);
     padding: 0 !important;
 }
 .navbar-brand img{
@@ -35,7 +35,7 @@ body
     text-align: left;
 }
 .span{
-    color: #bad4d4;
+    color: #F9E2AF;
 }
 .footer-email{
     text-decoration: none;
